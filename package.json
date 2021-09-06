@@ -1,0 +1,23 @@
+{
+  "name": "tmp-grapesjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GiveaDay/tmp-grapesjs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GiveaDay/tmp-grapesjs/issues"
+  },
+  "homepage": "https://github.com/GiveaDay/tmp-grapesjs#readme",
+  "dependencies": {
+    "grapesjs": "^0.17.25"
+  }
+}
