@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/GiveaDay/tmp-grapesjs#readme",
   "dependencies": {
-    "grapesjs": "^0.17.25"
+    "grapesjs": "^0.17.27"
   }
 }
