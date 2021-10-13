@@ -1,4 +1,8 @@
-import grapesjs from "grapesjs"
+// The current version on npm (v0.17.27) does not yet work on the server.
+// import grapesjs from "grapesjs"
+
+// Use the version build from the dev branch (commit 8b415b4e976f25bc133f66bc8a7ff1d3af8cebfa) instead
+import "./grapes.min.js"
 
 const PAGE_CONTENTS = [
     {
